@@ -1,3 +1,3 @@
-package org.lodlaundromat;
+package org.lodlaundromat.utils;
 
 public enum NodeType {BNODE, LITERAL, URI};

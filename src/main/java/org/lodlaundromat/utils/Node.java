@@ -1,4 +1,6 @@
-package org.lodlaundromat;
+package org.lodlaundromat.utils;
+
+
 public class Node {
         private final String stringRepresentation;
         public Node(String node) {
